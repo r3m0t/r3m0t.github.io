@@ -1,3 +1,7 @@
 [submodule "2048"]
 	path = 2048
 	url = https://github.com/r3m0t/2048.git
+[submodule "2048_ai"]
+	path = 2048_ai
+	url = https://github.com/r3m0t/2048.git
+	branch = ai
